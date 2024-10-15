@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hugo**
 - 👀 I’m interested in Xcode, ionic, Hugo and Python
-- 📫 How to reach me wildcardcharacter@icloud.com
+- 📫 How to reach me: wildcardcharacter@icloud.com
 - ⚡ Fun fact: [Bye me a Coffee](https://www.tipeeestream.com/wildcardcharacter/donation)       
 <br>
 <h3 align="left">Languages and Tools:</h3>
