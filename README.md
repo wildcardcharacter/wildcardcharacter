@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I’m WildcardCharacter</h1>
 <h3 align="center">Welcome to my Github profile!</h3>
 <br>
-<p align="left"> <div align="center"><img src="https://profile-counter.glitch.me/wildcardcharacter/count.svg?"  />
-</div> </p>
 <br>
 
 - 🌱 I’m currently learning **Hugo**
@@ -32,4 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="30" alt="hugo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+</div>
+<br>
+<br>
+<p align="left"> <div align="center"><img src="https://profile-counter.glitch.me/wildcardcharacter/count.svg?"  />
 </div>
