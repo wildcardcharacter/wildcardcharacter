@@ -8,9 +8,9 @@
 - 📫 How to reach me: wildcardcharacter@icloud.com
 - ⚡ Fun fact: [Bye me a Coffee](https://www.tipeeestream.com/wildcardcharacter/donation)       
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <br>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
