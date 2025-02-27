@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **ionic**
 - 👀 I’m interested in Xcode, ionic and Python
 - 📫 How to reach me: wildcardcharacter@icloud.com
-- ⚡ Fun fact: [Bye me a Coffee](https://www.tipeeestream.com/wildcardcharacter/donation)       
+-    3D-Printing: Geeetech i3 Pro B with GT2560A+ board
+- ⚡ Fun fact: [Bye me a Coffee](https://www.tipeeestream.com/wildcardcharacter/donation) 
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <br>
