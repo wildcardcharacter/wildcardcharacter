@@ -4,7 +4,7 @@
 <br>
 
 - 🌱 I’m currently learning **ionic**
-- 👀 I’m interested in Xcode, ionic and Python
+- 👀 I’m interested in PowerShell, ionic and Python
 - 📫 How to reach me: wildcardcharacter@icloud.com
   
 <br>
