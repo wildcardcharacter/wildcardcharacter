@@ -1,33 +1,77 @@
-<h1 align="center">👋 Hi, I’m WildcardCharacter</h1>
-<h3 align="center">Welcome to my Github profile!</h3>
-<br>
+<h1 align="center">🐧 wildcardcharacter</h1>
+
+<h3 align="center">
+Linux-Enthusiast • XFCE-Tüftler • Shell-Scripter
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-13-red?style=for-the-badge&logo=debian" />
+  <img src="https://img.shields.io/badge/XFCE-Desktop-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge&logo=opensourceinitiative" />
+</p>
+
 <br>
 
-- 🌱 I’m currently learning **ionic**
-- 👀 I’m interested in PowerShell, ionic and Python
-- 📫 How to reach me: wildcardcharacter@icloud.com
-  
-<br>
-<h3 align="center">Languages and Tools:</h3>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="30" alt="hugo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
+## 👋 Über mich
+
+Ich beschäftige mich leidenschaftlich mit Linux, Automatisierung und der Entwicklung kleiner, nützlicher Werkzeuge für den Alltag.
+
+Mein Schwerpunkt liegt auf leichtgewichtigen Lösungen für Debian und XFCE, die den Arbeitsablauf vereinfachen und die Produktivität steigern.
+
+* 🐧 Daily Driver: Debian 13 XFCE
+* 🛠️ Entwicklung von XFCE-Widgets und Linux-Tools
+* 🌱 Aktuell vertiefe ich Bash, Python und Linux-Automatisierung
+* 🔒 Interesse an VPNs, Datenschutz und Systemadministration
+* 💡 Open-Source-Fan
+* 📫 Kontakt: [wildcardcharacter@icloud.com](mailto:wildcardcharacter@icloud.com)
+
+---
+
+## 🚀 Aktuelle Projekte
+
+* 🛡️ XFCE APT Update Widget
+* 🌡️ XFCE System-Monitor Widget
+* 🔒 AdGuard VPN Widget für XFCE
+* 🐚 Bash-Automatisierungsskripte
+* 🧰 Sammlung nützlicher Linux-Tools
+
+---
+
+## ⚡ Technologien & Werkzeuge
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="debian" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
+
+</p>
+
+---
+
+## 🐧 Linux-Motto
+
+> „Warum etwas zehnmal von Hand machen, wenn man es einmal automatisieren kann?“
+
+---
+
+<p align="center">
+Einfache Werkzeuge • Effiziente Arbeitsabläufe • Open Source
+</p>
