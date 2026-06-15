@@ -1,7 +1,7 @@
-<h1 align="center">🐧 wildcardcharacter</h1>
+# <h1 align="center">🐧 wildcardcharacter</h1>
 
 <h3 align="center">
-Linux-Enthusiast • XFCE-Tüftler • Shell-Scripter
+Linux Enthusiast • XFCE Tinkerer • Shell Scripter
 </h3>
 
 <p align="center">
@@ -13,32 +13,32 @@ Linux-Enthusiast • XFCE-Tüftler • Shell-Scripter
 
 <br>
 
-## 👋 Über mich
+## 👋 About Me
 
-Ich beschäftige mich leidenschaftlich mit Linux, Automatisierung und der Entwicklung kleiner, nützlicher Werkzeuge für den Alltag.
+I'm passionate about Linux, automation, and developing small yet useful tools that make everyday workflows easier.
 
-Mein Schwerpunkt liegt auf leichtgewichtigen Lösungen für Debian und XFCE, die den Arbeitsablauf vereinfachen und die Produktivität steigern.
+My focus is on lightweight solutions for Debian and XFCE that improve productivity while keeping systems fast, clean, and efficient.
 
 * 🐧 Daily Driver: Debian 13 XFCE
-* 🛠️ Entwicklung von XFCE-Widgets und Linux-Tools
-* 🌱 Aktuell vertiefe ich Bash, Python und Linux-Automatisierung
-* 🔒 Interesse an VPNs, Datenschutz und Systemadministration
-* 💡 Open-Source-Fan
-* 📫 Kontakt: [wildcardcharacter@icloud.com](mailto:wildcardcharacter@icloud.com)
+* 🛠️ Developing XFCE widgets and Linux utilities
+* 🌱 Currently expanding my skills in Bash, Python, and Linux automation
+* 🔒 Interested in VPNs, privacy, and system administration
+* 💡 Open-source enthusiast
+* 📫 Contact: [wildcardcharacter@icloud.com](mailto:wildcardcharacter@icloud.com)
 
 ---
 
-## 🚀 Aktuelle Projekte
+## 🚀 Current Projects
 
 * 🛡️ XFCE APT Update Widget
-* 🌡️ XFCE System-Monitor Widget
-* 🔒 AdGuard VPN Widget für XFCE
-* 🐚 Bash-Automatisierungsskripte
-* 🧰 Sammlung nützlicher Linux-Tools
+* 🌡️ XFCE System Monitor Widget
+* 🔒 AdGuard VPN Widget for XFCE
+* 🐚 Bash automation scripts
+* 🧰 Collection of useful Linux tools
 
 ---
 
-## ⚡ Technologien & Werkzeuge
+## ⚡ Technologies & Tools
 
 <p align="center">
 
@@ -66,12 +66,12 @@ Mein Schwerpunkt liegt auf leichtgewichtigen Lösungen für Debian und XFCE, die
 
 ---
 
-## 🐧 Linux-Motto
+## 🐧 Linux Motto
 
-> „Warum etwas zehnmal von Hand machen, wenn man es einmal automatisieren kann?“
+> "Why do something ten times by hand when you can automate it once?"
 
 ---
 
 <p align="center">
-Einfache Werkzeuge • Effiziente Arbeitsabläufe • Open Source
+Simple Tools • Efficient Workflows • Open Source
 </p>
