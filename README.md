@@ -30,11 +30,10 @@ My focus is on lightweight solutions for Debian and XFCE that improve productivi
 
 ## 🚀 Current Projects
 
+* 🎵 AudioHarvester
 * 🛡️ XFCE APT Update Widget
 * 🌡️ XFCE System Monitor Widget
 * 🔒 AdGuard VPN Widget for XFCE
-* 🐚 Bash automation scripts
-* 🧰 Collection of useful Linux tools
 
 ---
 
