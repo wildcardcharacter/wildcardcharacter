@@ -74,3 +74,9 @@ My focus is on lightweight solutions for Debian and XFCE that improve productivi
 <p align="center">
 Simple Tools • Efficient Workflows • Open Source
 </p>
+
+## ❤️ Support the Project
+
+If this tool helped you, consider supporting its development:
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">](https://www.buymeacoffee.com/wildcardcharacter)   
