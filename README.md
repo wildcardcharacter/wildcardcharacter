@@ -77,6 +77,6 @@ Simple Tools • Efficient Workflows • Open Source
 
 ## ❤️ Support the Project
 
-If this tool helped you, consider supporting its development:
+If these tools helped you, consider supporting its development:
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">](https://www.buymeacoffee.com/wildcardcharacter)   
