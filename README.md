@@ -1,5 +1,3 @@
-# <h1 align="center">🐧 wildcardcharacter</h1>
-
 <h3 align="center">
 Linux Enthusiast • XFCE Tinkerer • Shell Scripter
 </h3>
