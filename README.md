@@ -27,7 +27,8 @@ My focus is on lightweight solutions for Debian and XFCE that improve productivi
 ---
 
 ## 🚀 Current Projects
-
+  
+* 🔐 Zufallswerk
 * 🎵 AudioHarvester
 * 🛡️ XFCE APT Update Widget
 * 🌡️ XFCE System Monitor Widget
