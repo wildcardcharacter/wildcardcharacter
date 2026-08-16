@@ -27,12 +27,12 @@ My focus is on lightweight solutions for Debian and XFCE that improve productivi
 ---
 
 ## 🚀 Current Projects
-  
-* 🔐 Zufallswerk
-* 🎵 AudioHarvester
-* 🛡️ XFCE APT Update Widget
-* 🌡️ XFCE System Monitor Widget
-* 🔒 AdGuard VPN Widget for XFCE
+
+* 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
+* 🎵 [AudioHarvester](https://github.com/wildcardcharacter/AudioHarvester)
+* 🛡️ [XFCE APT Update Widget](https://github.com/wildcardcharacter/Debian-XFCE-Update-Indicator)
+* 🌡️ [XFCE System Monitor Widget](https://github.com/wildcardcharacter/XFCE-System-Monitor-Widget)
+* 🔒 [AdGuard VPN Widget for XFCE](https://github.com/wildcardcharacter/AdGuard-VPN-XFCE-Genmon-Widget)
 
 ---
 
