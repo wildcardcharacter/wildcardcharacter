@@ -49,7 +49,7 @@ step by step.
 ### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
 
 <p align="center">
-  <img src="assets/current-project_Zufallswerk.jpg" alt="Current Projects" width="800">
+  <img src="assets/current-project_Zufallswerk.jpg" alt="Current Projects" width="500">
 </p>
 
 A modern password and passphrase generator for Linux,
