@@ -48,8 +48,6 @@ step by step.
 
 ### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
 
- <img src="assets/current-project_Zufallswerk.jpg" alt="Current Projects" width="400">
-
 A modern password and passphrase generator for Linux,
 written in **Haskell**.
 
