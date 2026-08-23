@@ -44,6 +44,43 @@ step by step.
 
 ---
 
+### 🔐 Zufallswerk 2.0 – Major Overhaul
+
+A new version of Zufallswerk is currently in development! 🎉
+
+With Zufallswerk 2.0, the password generator is getting a major overhaul. The goal is to keep the original functionality while providing a more modern, clean, and user-friendly interface.
+
+✨ What's new so far
+🖥️ New graphical interface based on GTK
+🔐 Password generator in a dedicated window
+🎲 Secure password generation using /dev/urandom
+🔤 Customizable character sets:
+Lowercase letters
+Uppercase letters
+Numbers
+Special characters
+📏 Adjustable password length
+🧩 Better separation of functionality into dedicated Haskell modules
+🏗️ Modernized project structure using Cabal
+🔜 What's coming next
+
+The overhaul is still in progress. Planned improvements include:
+
+📋 Automatically copying generated passwords to the clipboard
+👀 Improved display of long passwords
+💬 A redesigned passphrase generator
+⚙️ Additional settings
+✨ Further UI and usability improvements
+🛠️ Development status
+
+Zufallswerk 2.0 is currently under active development.
+
+The new graphical interface and password generator are already working. More features will be added step by step.
+
+The goal of Zufallswerk 2.0 is to turn the original small password generator into a clean, versatile tool for securely generating passwords and passphrases.
+
+Stay tuned! 🔐🎲
+
 ## 🚀 Current Projects
 
 ### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
