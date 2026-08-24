@@ -86,6 +86,10 @@ Zufallswerk 2.0 is currently under active development.
 
 Stay tuned! 🛠️🐧
 
+## 🛰️ On the Radar
+
+- 🎭 FilePersona – Files get a personality
+
 ## 🚀 Current Projects
 
 ### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
