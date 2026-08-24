@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Markus
 
-### Linux Developer · Linux Enthusiast · Open Source Builder
 
 🐧 Linux · 🟣 Haskell · 🐍 Python · 🐚 Shell · 🖥️ XFCE
 
