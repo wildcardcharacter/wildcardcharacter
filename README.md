@@ -23,8 +23,6 @@
 
 <p align="center">🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**</p>
 
-## 👋 About Me
-
 I'm a Linux enthusiast and open-source developer who enjoys building
 small, useful tools that solve real-world problems.
 
