@@ -44,6 +44,8 @@ step by step.
 
 ---
 
+## Coming soon 👀🔜❗️
+
 ### 🔐 Zufallswerk 2.0 – Major Overhaul
 
 A new version of Zufallswerk is currently in development! 🎉
