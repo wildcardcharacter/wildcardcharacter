@@ -84,10 +84,6 @@ The overhaul is still in progress. Planned improvements include:
 
 Zufallswerk 2.0 is currently under active development.
 
-The new graphical interface and password generator are already working. More features will be added step by step.
-
-The goal of Zufallswerk 2.0 is to turn the original small password generator into a clean, versatile tool for securely generating passwords and passphrases.
-
 Stay tuned! 🛠️🐧
 
 ## 🚀 Current Projects
