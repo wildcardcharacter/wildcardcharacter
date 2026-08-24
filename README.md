@@ -21,6 +21,8 @@
 
 ## 👋 About Me
 
+🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**
+
 I'm a Linux enthusiast and open-source developer who enjoys building
 small, useful tools that make everyday workflows easier.
 
@@ -33,12 +35,6 @@ passphrase generator for Linux.
 
 I enjoy learning by building, experimenting, and improving projects
 step by step.
-
----
-
-### 🐧 Linux
-
-🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**
 
 ---
 
