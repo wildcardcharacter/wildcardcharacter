@@ -201,12 +201,6 @@ And thanks to everyone who tests the project, reports bugs, suggests improvement
 
 ---
 
-## 🐧 Linux Motto
-
-> **Why do something ten times by hand when you can automate it once?**
-
----
-
 ## ❤️ Support My Work
 
 If one of my projects is useful to you, consider giving it a ⭐
