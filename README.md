@@ -34,13 +34,11 @@ passphrase generator for Linux.
 I enjoy learning by building, experimenting, and improving projects
 step by step.
 
+---
+
 ### 🐧 Linux
 
-- Daily driver: **Debian 13 + XFCE**
-- Developing XFCE widgets and Linux utilities
-- Automation and system administration
-- Privacy and security tools
-- Lightweight desktop solutions
+🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**
 
 ---
 
@@ -132,19 +130,6 @@ build practical Linux software.
 **Zufallswerk** is one result of that approach.
 
 > Learn by building. Build by experimenting.
-
----
-
-## 💡 What I Like Building
-
-- 🐧 Linux desktop utilities
-- 🖥️ XFCE panel widgets
-- 🟣 Haskell applications
-- 🐍 Python tools
-- 🐚 Shell automation
-- 🔐 Privacy and security utilities
-- ⚙️ Lightweight system tools
-- 📦 Debian packages
 
 ---
 
