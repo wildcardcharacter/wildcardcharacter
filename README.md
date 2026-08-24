@@ -116,20 +116,6 @@ An XFCE panel widget for controlling and monitoring AdGuard VPN.
 
 ---
 
-## 🟣 Exploring Haskell
-
-One of my current goals is to become more comfortable with
-**Haskell and functional programming**.
-
-Rather than learning only through theory, I'm using Haskell to
-build practical Linux software.
-
-**Zufallswerk** is one result of that approach.
-
-> Learn by building. Build by experimenting.
-
----
-
 ## 🙏 Contributors & Thanks
 
 Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
