@@ -135,6 +135,58 @@ build practical Linux software.
 
 ---
 
+## 💡 What I Like Building
+
+- 🐧 Linux desktop utilities
+- 🖥️ XFCE panel widgets
+- 🟣 Haskell applications
+- 🐍 Python tools
+- 🐚 Shell automation
+- 🔐 Privacy and security utilities
+- ⚙️ Lightweight system tools
+- 📦 Debian packages
+
+---
+
+## 🙏 Contributors & Thanks
+
+Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
+
+### Contributors
+
+<a href="https://github.com/wildcardcharacter">
+  <img src="https://github.com/wildcardcharacter.png" width="80px;" alt="Markus"/>
+  <br />
+  <sub><b>Markus</b></sub>
+</a>
+
+ Creator, Core Developer & Maintainer
+
+### Thanks
+
+Special thanks to the open-source community and the projects and tools that helped make this project possible.
+
+And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
+
+---
+
+## ❤️ Support My Work
+
+If one of my projects is useful to you, consider giving it a ⭐
+or supporting further development.
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/wildcardcharacter">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         width="150">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
 ## ⚡ Technologies & Tools
 
 <p align="center">
@@ -163,63 +215,5 @@ build practical Linux software.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 
 </p>
-
----
-
-## 💡 What I Like Building
-
-- 🐧 Linux desktop utilities
-- 🖥️ XFCE panel widgets
-- 🟣 Haskell applications
-- 🐍 Python tools
-- 🐚 Shell automation
-- 🔐 Privacy and security utilities
-- ⚙️ Lightweight system tools
-- 📦 Debian packages
-
----
-
-## 🙏 Contributors & Thanks
-
-Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
-
-### Contributors
-
-<a href="https://github.com/wildcardcharacter">
-  <img src="https://github.com/wildcardcharacter.png" width="80px;" alt="Markus"/>
-  <br />
-  <sub><b>Markus</b></sub>
-</a>
-
-Creator & maintainer
-
-### Thanks
-
-Special thanks to the open-source community and the projects and tools that helped make this project possible.
-
-And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
-
----
-
-## ❤️ Support My Work
-
-If one of my projects is useful to you, consider giving it a ⭐
-or supporting further development.
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/wildcardcharacter">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Me A Coffee"
-         width="150">
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 🐧 Linux · 🟣 Haskell · 🐍 Python · 🐚 Shell · 💻 Open Source
-
-**Simple Tools · Efficient Workflows · Open Source**
 
 </div>
