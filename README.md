@@ -32,7 +32,7 @@ fast, and easy to use.
 
 I'm also exploring **Haskell and functional programming**, building
 projects such as **Zufallswerk**, a password and passphrase generator
-for Linux, and experimenting with ideas like **FileDNA** and **RuleForge**.
+for Linux, and experimenting with ideas like **FilePersona** and **RuleForge**.
 
 I enjoy **learning by building** — experimenting with new ideas,
 solving problems, and improving projects step by step.
