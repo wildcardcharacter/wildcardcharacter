@@ -48,6 +48,11 @@ step by step.
 
 ### 🔐 Zufallswerk 2.0 – Major Overhaul
 
+<p align="center">
+  <img src="/IMG/pre_ZW.png" width="520" alt="preview">
+</p>
+
+
 A new version of Zufallswerk is currently in development! 🎉
 
 With Zufallswerk 2.0, the password generator is getting a major overhaul. The goal is to keep the original functionality while providing a more modern, clean, and user-friendly interface.
