@@ -184,6 +184,25 @@ build practical Linux software.
 > **Why do something ten times by hand when you can automate it once?**
 
 ---
+## 🙏 Contributors & Thanks
+
+Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
+
+### Contributors
+
+<a href="https://github.com/wildcardcharacter">
+  <img src="https://github.com/wildcardcharacter.png" width="80px;" alt="Markus"/>
+  <br />
+  <sub><b>Markus</b></sub>
+</a>
+
+Creator & maintainer
+
+### Thanks
+
+Special thanks to the open-source community and the projects and tools that helped make this project possible.
+
+And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
 
 ## ❤️ Support My Work
 
