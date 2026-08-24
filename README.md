@@ -17,8 +17,6 @@
 
 ## 👋 About Me
 
-<p align="center">🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**</p>
-
 I'm a Linux enthusiast and open-source developer who enjoys building
 small, useful tools that solve real-world problems.
 
@@ -151,33 +149,42 @@ or supporting further development.
 
 <div align="center">
 
-## ⚡ Technologies & Tools
+### ⚡ Technologies & Tools
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="Debian" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="Debian" />
+
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="45" alt="Haskell" />
+
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" />
-<img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-<img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+</p>
 
+<p align="center">
+  <strong>Linux</strong> ·
+  <strong>Debian</strong> ·
+  <strong>Haskell</strong> ·
+  <strong>GTK</strong> ·
+  <strong>Bash</strong> ·
+  <strong>Git</strong> ·
+  <strong>GitHub</strong>
 </p>
 
 </div>
