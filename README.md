@@ -21,20 +21,23 @@
 
 ## 👋 About Me
 
-🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**
+<p align="center">🐧 **Debian 13** · 🧩 **XFCE** · ⚙️ **Automation** · 🔐 **Privacy & Security** · 🪶 **Lightweight**</p>
+
+## 👋 About Me
 
 I'm a Linux enthusiast and open-source developer who enjoys building
-small, useful tools that make everyday workflows easier.
+small, useful tools that solve real-world problems.
 
-My main focus is on **Linux desktop applications, XFCE utilities,
-automation, and lightweight system tools**.
+My main focus is **Linux, XFCE utilities, automation, and lightweight
+system tools**. I enjoy creating practical software that stays simple,
+fast, and easy to use.
 
-I'm also exploring **Haskell and functional programming** by building
-practical applications such as **Zufallswerk**, a password and
-passphrase generator for Linux.
+I'm also exploring **Haskell and functional programming**, building
+projects such as **Zufallswerk**, a password and passphrase generator
+for Linux, and experimenting with ideas like **FileDNA** and **RuleForge**.
 
-I enjoy learning by building, experimenting, and improving projects
-step by step.
+I enjoy **learning by building** — experimenting with new ideas,
+solving problems, and improving projects step by step.
 
 ---
 
