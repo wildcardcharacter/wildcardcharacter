@@ -179,11 +179,6 @@ build practical Linux software.
 
 ---
 
-## 🐧 Linux Motto
-
-> **Why do something ten times by hand when you can automate it once?**
-
----
 ## 🙏 Contributors & Thanks
 
 Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
@@ -203,6 +198,14 @@ Creator & maintainer
 Special thanks to the open-source community and the projects and tools that helped make this project possible.
 
 And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
+
+---
+
+## 🐧 Linux Motto
+
+> **Why do something ten times by hand when you can automate it once?**
+
+---
 
 ## ❤️ Support My Work
 
