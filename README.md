@@ -2,9 +2,6 @@
 
 # 👋 Hi, I'm Markus
 
-
-🐧 Linux · 🟣 Haskell · 🐍 Python · 🐚 Shell · 🖥️ XFCE
-
 <p>
   <img src="https://img.shields.io/badge/Debian-13-A81D33?style=for-the-badge&logo=debian" />
   <img src="https://img.shields.io/badge/Haskell-98-5e5086?style=for-the-badge&logo=haskell" />
