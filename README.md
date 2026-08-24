@@ -89,6 +89,7 @@ Stay tuned! 🛠️🐧
 ## 🛰️ On the Radar
 
 - 🎭 FilePersona – Files get a personality
+- ⚒️ RuleForge (a tiny DSL for rules)
 
 ## 🚀 Current Projects
 
