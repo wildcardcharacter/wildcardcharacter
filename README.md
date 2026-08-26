@@ -122,7 +122,7 @@ Thanks to everyone who contributes to this project through code, ideas, testing,
   <sub><b>Markus</b></sub>
 </a>
 
- Creator, Core Developer & Maintainer
+ Founder, Core Developer & Maintainer
 
 ### Thanks
 
