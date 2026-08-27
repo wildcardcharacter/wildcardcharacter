@@ -79,6 +79,7 @@ Stay tuned! 🛠️🐧
 
 - 🎭 FilePersona 
 - ⚒️ RuleForge
+- 🎵 AudioHarvester (improvement and expansion)
 
 ## 🚀 Current Projects
 
