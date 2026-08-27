@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Linux enthusiast and open-source developer who enjoys building
 small, useful tools that solve real-world problems.
@@ -33,7 +33,7 @@ solving problems, and improving projects step by step.
 
 ---
 
-## Coming soon 👀🔜❗️
+## Coming soon
 
 ### 🔐 Zufallswerk 2.0 – Major Overhaul
 
@@ -46,7 +46,7 @@ A new version of Zufallswerk is currently in development! 🎉
 
 With Zufallswerk 2.0, the password generator is getting a major overhaul. The goal is to keep the original functionality while providing a more modern, clean, and user-friendly interface.
 
-## ✨ What's new so far
+## What's new so far
 
 - 🖥️ New graphical interface based on GTK
 - 🔐 Password generator in a dedicated window
@@ -60,7 +60,7 @@ With Zufallswerk 2.0, the password generator is getting a major overhaul. The go
 - 🧩 Better separation of functionality into dedicated Haskell modules
 - 🏗️ Modernized project structure using Cabal
 
-## 🔜 What's coming next
+## What's coming next
 
 The overhaul is still in progress. Planned improvements include:
 
@@ -75,13 +75,13 @@ Zufallswerk 2.0 is currently under active development.
 
 Stay tuned! 🛠️🐧
 
-## 🛰️ On the Radar
+## On the Radar
 
 - 🎭 FilePersona 
 - ⚒️ RuleForge
 - 🎵 AudioHarvester (improvement and expansion)
 
-## 🚀 Current Projects
+## Current Projects
 
 ### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
 
@@ -111,7 +111,7 @@ An XFCE panel widget for controlling and monitoring AdGuard VPN.
 
 ---
 
-## 🙏 Contributors & Thanks
+## Contributors & Thanks
 
 Thanks to everyone who contributes to this project through code, ideas, testing, bug reports, and feedback.
 
@@ -133,7 +133,7 @@ And thanks to everyone who tests the project, reports bugs, suggests improvement
 
 ---
 
-## ❤️ Support My Work
+## Support My Work
 
 If one of my projects is useful to you, consider giving it a ⭐
 or supporting further development.
@@ -150,7 +150,7 @@ or supporting further development.
 
 <div align="center">
 
-### ⚡ Technologies & Tools
+### Technologies & Tools
 
 <p align="center">
 
