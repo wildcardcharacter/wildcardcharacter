@@ -150,7 +150,7 @@ Thanks to everyone who contributes to this project through code, ideas, testing,
   <sub><b>Markus</b></sub>
 </a>
 
- Founder, Core Developer & Maintainer
+ Founder & Core Developer
 
 ### Thanks
 
