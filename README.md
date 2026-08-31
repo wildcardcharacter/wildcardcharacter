@@ -38,13 +38,22 @@ solving problems, and improving projects step by step.
 ### 🔐 Zufallswerk 2.0 – Major Overhaul
 
 <p align="center">
-  <img src="/IMG/pre_ZW.png" width="520" alt="preview">
+  <img src="/IMG/pre_main.png" width="520" alt="preview">
 </p>
 
+<p align="center">
+  <img src="/IMG/pre_password.png" width="520" alt="preview">
+</p>
 
-A new version of Zufallswerk is currently in development! 🎉
+<p align="center">
+  <img src="/IMG/pre_passphrases.png" width="520" alt="preview">
+</p>
 
-With Zufallswerk 2.0, the password generator is getting a major overhaul. The goal is to keep the original functionality while providing a more modern, clean, and user-friendly interface.
+A# Zufallswerk 2.0
+
+A new version of Zufallswerk is currently in development.
+
+With Zufallswerk 2.0, the password and passphrase generator is getting a major overhaul. The goal is to preserve the original functionality while providing a more modern, clean, and user-friendly interface.
 
 ## What's new so far
 
@@ -57,21 +66,41 @@ With Zufallswerk 2.0, the password generator is getting a major overhaul. The go
   - Numbers
   - Special characters
 - 📏 Adjustable password length
+- 📊 Entropy calculation and password strength indicator
+- 📋 Automatically copying generated passwords to the clipboard
+- 💬 Passphrase generator with a 7,776-word German word list
+- 📊 Entropy calculation and strength indicator for passphrases
+- 🔢 Adjustable number of words (4–36)
+- ➖ Customizable separator characters
 - 🧩 Better separation of functionality into dedicated Haskell modules
 - 🏗️ Modernized project structure using Cabal
+- ℹ️ Native "About Zufallswerk" dialog
+- 🔢 Version number displayed in the application window and About dialog
+- ⏻ Clean exit button in the main window
 
 ## What's coming next
 
 The overhaul is still in progress. Planned improvements include:
 
-- 📋 Automatically copying generated passwords to the clipboard
-- 👀 Improved display of long passwords
 - 💬 A redesigned passphrase generator
+- 🔤 **Random character blocks as an alternative to word-based passphrases**
+  - Example: `Ravo-7Kex-Mun4-Zepo`
+  - Securely generated using `/dev/urandom`
+  - No word list required
+  - Configurable block length and number of blocks
+  - Entropy and password strength displayed for the generated result
+- 🌍 **English user interface**
+  - German and English selectable in the application
+  - Translated interface, dialogs, and messages
 - ⚙️ Additional settings
 - ✨ Further UI and usability improvements
-- 🛠️ Development status
+- 🛠️ Improvements to the Debian packaging and resource handling
+
+## Development status
 
 Zufallswerk 2.0 is currently under active development.
+
+The existing password and passphrase generation functionality is already working, while the new GTK interface and additional features are being developed step by step.
 
 Stay tuned! 🛠️🐧
 
