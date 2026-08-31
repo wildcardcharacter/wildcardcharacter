@@ -49,8 +49,6 @@ solving problems, and improving projects step by step.
   <img src="/IMG/pre_passphrases.png" width="520" alt="preview">
 </p>
 
-A# Zufallswerk 2.0
-
 A new version of Zufallswerk is currently in development.
 
 With Zufallswerk 2.0, the password and passphrase generator is getting a major overhaul. The goal is to preserve the original functionality while providing a more modern, clean, and user-friendly interface.
