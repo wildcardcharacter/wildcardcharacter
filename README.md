@@ -123,6 +123,8 @@ A lightweight graphical audio downloader.
 
 **Python · PyQt6 · yt-dlp · FFmpeg**
 
+## Projects
+
 ### 🛡️ [XFCE APT Update Widget](https://github.com/wildcardcharacter/Debian-XFCE-Update-Indicator)
 
 A lightweight XFCE panel widget for monitoring available
