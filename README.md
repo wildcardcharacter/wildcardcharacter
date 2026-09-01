@@ -104,6 +104,10 @@ Stay tuned! 🛠️🐧
 - ⚒️ RuleForge
 - 🎵 AudioHarvester (improvement and expansion)
 
+## Current Projects
+
+### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
+
 A modern password and passphrase generator for Linux,  
 written in **Haskell** with a **GTK-based graphical interface**.
 
