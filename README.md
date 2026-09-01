@@ -104,14 +104,14 @@ Stay tuned! 🛠️🐧
 - ⚒️ RuleForge
 - 🎵 AudioHarvester (improvement and expansion)
 
-## Current Projects
+A modern password and passphrase generator for Linux,  
+written in **Haskell** with a **GTK-based graphical interface**.
 
-### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
+Features secure password and passphrase generation using  
+**`/dev/urandom`**, entropy calculation, strength indicators,  
+customizable character sets, and configurable passphrases.
 
-A modern password and passphrase generator for Linux,
-written in **Haskell**.
-
-**Haskell · YAD · Linux · Debian · `/dev/urandom`**
+**Haskell · GTK · Linux · Debian · `/dev/urandom`**
 
 ### 🎵 [AudioHarvester](https://github.com/wildcardcharacter/AudioHarvester)
 
