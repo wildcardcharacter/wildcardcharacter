@@ -96,6 +96,10 @@ The overhaul is still in progress. Planned improvements include:
 
 The existing password and passphrase generation functionality is already working, while the new GTK interface and additional features are being developed step by step.
 
+<p align="center">
+  <img src="/IMG/pre_structure.png" width="520" alt="preview">
+</p>
+
 Stay tuned! 🛠️🐧
 
 ## On the Radar
