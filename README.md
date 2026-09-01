@@ -35,7 +35,9 @@ solving problems, and improving projects step by step.
 
 ## Coming soon
 
-### 🔐 Zufallswerk 2.0 – Major Overhaul
+### 🔐 Zufallswerk 2.0
+
+With Zufallswerk 2.0, the password and passphrase generator is getting a major overhaul. The goal is to preserve the original functionality while providing a more modern, clean, and user-friendly interface.
 
 <p align="center">
   <img src="/IMG/pre_main.png" width="520" alt="preview">
@@ -48,10 +50,6 @@ solving problems, and improving projects step by step.
 <p align="center">
   <img src="/IMG/pre_passphrases.png" width="520" alt="preview">
 </p>
-
-A new version of Zufallswerk is currently in development.
-
-With Zufallswerk 2.0, the password and passphrase generator is getting a major overhaul. The goal is to preserve the original functionality while providing a more modern, clean, and user-friendly interface.
 
 ## What's new so far
 
@@ -95,8 +93,6 @@ The overhaul is still in progress. Planned improvements include:
 - 🛠️ Improvements to the Debian packaging and resource handling
 
 ## Development status
-
-Zufallswerk 2.0 is currently under active development.
 
 The existing password and passphrase generation functionality is already working, while the new GTK interface and additional features are being developed step by step.
 
