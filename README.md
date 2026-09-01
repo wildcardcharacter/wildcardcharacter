@@ -43,14 +43,6 @@ With Zufallswerk 2.0, the password and passphrase generator is getting a major o
   <img src="/IMG/pre_main.png" width="520" alt="preview">
 </p>
 
-<p align="center">
-  <img src="/IMG/pre_password.png" width="520" alt="preview">
-</p>
-
-<p align="center">
-  <img src="/IMG/pre_passphrases.png" width="520" alt="preview">
-</p>
-
 ## What's new so far
 
 - 🖥️ New graphical interface based on GTK
@@ -95,10 +87,6 @@ The overhaul is still in progress. Planned improvements include:
 ## Development status
 
 The existing password and passphrase generation functionality is already working, while the new GTK interface and additional features are being developed step by step.
-
-<p align="center">
-  <img src="/IMG/pre_structure.png" width="520" alt="preview">
-</p>
 
 Stay tuned! 🛠️🐧
 
