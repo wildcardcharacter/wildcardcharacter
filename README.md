@@ -55,26 +55,21 @@ An XFCE panel widget for controlling and monitoring AdGuard VPN.
 
 ---
 
-## Support My Work
+## Contributors
 
-If one of my projects is useful to you, consider giving it a ⭐
-or supporting further development.
+<a href="https://github.com/wildcardcharacter">
+  <img src="https://github.com/wildcardcharacter.png" width="80px;" alt="Markus"/>
+  <br />
+  <sub><b>Markus</b></sub>
+</a>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/wildcardcharacter">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Me A Coffee"
-         width="150">
-  </a>
-</p>
+ Founder & Core Developer
 
-## The idea
+## Thanks
 
-> **Learn by building. Build by experimenting.**
+Special thanks to the open-source community and the projects and tools that helped make this project possible.
 
-No huge frameworks.  
-No unnecessary complexity.  
-Just useful software, curiosity, and a willingness to try something different.
+And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
 
 ---
 
@@ -86,7 +81,6 @@ Just useful software, curiosity, and a willingness to try something different.
   </a>
 </p>
 
-**Linux · Open Source · Haskell · Python · Shell**
-
 *wildcardcharacter*  
 *open source tools for curious minds.*
+
