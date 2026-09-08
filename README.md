@@ -49,9 +49,9 @@ An XFCE panel widget for controlling and monitoring AdGuard VPN.
 
 ## On the Radar
 
-🎭 **FilePersona** — Files get a personality.
+- **FilePersona** — Files get a personality.
 
-⚒️ **RuleForge** — A tiny DSL for rules.
+- **RuleForge** — A tiny DSL for rules.
 
 ---
 
