@@ -8,12 +8,7 @@ Tools that solve a problem, make something easier,
 or are simply fun to build.
 
 <p>
-  <img src="https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian" />
-  <img src="https://img.shields.io/badge/Haskell-98-5e5086?style=flat-square&logo=haskell" />
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-orange?style=flat-square&logo=opensourceinitiative" />
+  <img src="https://skillicons.dev/icons?i=linux,haskell,python,bash,git,github,vscode,gtk,qt,ffmpeg" />
 </p>
 
 ---
@@ -24,7 +19,7 @@ or are simply fun to build.
 
 Secure password and passphrase generator for Linux.
 
-**Haskell · GTK · Linux**
+**Haskell · Linux**
 
 ### 🎵 [AudioHarvester](https://github.com/wildcardcharacter/AudioHarvester)
 
@@ -60,6 +55,19 @@ An XFCE panel widget for controlling and monitoring AdGuard VPN.
 
 ---
 
+## Support My Work
+
+If one of my projects is useful to you, consider giving it a ⭐
+or supporting further development.
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/wildcardcharacter">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         width="150">
+  </a>
+</p>
+
 ## The idea
 
 > **Learn by building. Build by experimenting.**
@@ -70,8 +78,6 @@ Just useful software, curiosity, and a willingness to try something different.
 
 ---
 
-**Linux · Open Source · Haskell · Python · Shell**
-
 <p>
   <a href="https://www.buymeacoffee.com/wildcardcharacter">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
@@ -79,6 +85,8 @@ Just useful software, curiosity, and a willingness to try something different.
          width="150">
   </a>
 </p>
+
+**Linux · Open Source · Haskell · Python · Shell**
 
 *wildcardcharacter*  
 *open source tools for curious minds.*
