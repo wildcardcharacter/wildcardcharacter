@@ -1,5 +1,11 @@
 # wildcardcharacter
 
+<p align="center">
+  <img src="img/60_jahre_star_trek.png" width="520" alt="60_jahre_star_trek.png">
+</p>
+
+---
+
 **open source tools for curious minds.**
 
 We build small, useful software for Linux and beyond.
