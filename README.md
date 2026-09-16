@@ -21,9 +21,7 @@ or are simply fun to build.
 
 ## Current projects
 
-### 🎵 [AudioHarvester](https://github.com/wildcardcharacter/AudioHarvester)
-
-(revision)
+### 🎵 [AudioHarvester - (revision)](https://github.com/wildcardcharacter/AudioHarvester)
 
 A lightweight desktop application for downloading audio.
 
