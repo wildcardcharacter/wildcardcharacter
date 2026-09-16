@@ -21,13 +21,9 @@ or are simply fun to build.
 
 ## Current projects
 
-### 🔐 [Zufallswerk](https://github.com/wildcardcharacter/Zufallswerk)
-
-Secure password and passphrase generator for Linux.
-
-**Haskell · Linux**
-
 ### 🎵 [AudioHarvester](https://github.com/wildcardcharacter/AudioHarvester)
+
+(revision)
 
 A lightweight desktop application for downloading audio.
 
