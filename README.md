@@ -19,21 +19,19 @@ or are simply fun to build.
 
 ---
 
-## Current projects
+## FileDNA – Planned Project
 
-### 🎵 [AudioHarvester - (revision)](https://github.com/wildcardcharacter/AudioHarvester)
+### 🔬 FileDNA
 
-A lightweight desktop application for downloading audio.
+A Rust-based tool for analyzing, identifying, and comparing files through their digital fingerprints.
 
-**Python · PyQt6 · yt-dlp · FFmpeg**
+**Rust · CLI · File Analysis · Hashing · Linux · Planned**
 
 ---
 
 ## On the Radar
 
 - **RuleForge** — A tiny DSL for rules.
-
-- **FilePersona** — Files get a personality.
 
 ---
 
