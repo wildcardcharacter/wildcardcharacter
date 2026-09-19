@@ -19,13 +19,13 @@ or are simply fun to build.
 
 ---
 
-## FileDNA – Planned Project
+## Planned Project
 
 ### 🔬 FileDNA
 
 A Rust-based tool for analyzing, identifying, and comparing files through their digital fingerprints.
 
-**Rust · CLI · File Analysis · Hashing · Linux · Planned**
+**Rust · CLI · File Analysis · Hashing · Linux**
 
 ---
 
