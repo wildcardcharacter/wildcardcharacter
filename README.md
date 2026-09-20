@@ -19,8 +19,6 @@ A Rust-based tool for analyzing, identifying, and comparing files through their 
 
 **Rust · CLI · File Analysis · Hashing · Linux**
 
----
-
 ## On the Radar
 
 - **RuleForge** — A tiny DSL for rules.
