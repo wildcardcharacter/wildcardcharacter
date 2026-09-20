@@ -9,8 +9,6 @@ or are simply fun to build.
   <img src="https://skillicons.dev/icons?i=linux,haskell,python,bash,git,github,vscode,gtk,qt,ffmpeg" />
 </p>
 
----
-
 ## Planned Project
 
 ### 🔬 FileDNA
