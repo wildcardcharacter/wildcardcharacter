@@ -1,16 +1,6 @@
 # wildcardcharacter
 
----
-
-<p>
-  <img src="img/GitHub_Logo.png"
-        width="320"
-       alt="Zufallswerk main window">
-</p>
-
----
-
-We build small, useful software for Linux and beyond.
+I build small, useful software for Linux and beyond.
 
 Tools that solve a problem, make something easier,
 or are simply fun to build.
