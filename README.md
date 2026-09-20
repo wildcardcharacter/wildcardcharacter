@@ -1,9 +1,5 @@
 # wildcardcharacter
 
-<p align="center">
-  <img src="img/60_jahre_star_trek.png" width="320" alt="60_jahre_star_trek.png">
-</p>
-
 ---
 
 **open source tools for curious minds.**
