@@ -21,8 +21,6 @@ A Rust-based tool for analyzing, identifying, and comparing files through their 
 
 - **RuleForge** — A tiny DSL for rules.
 
----
-
 ## Contributors
 
 <a href="https://github.com/wildcardcharacter">
