@@ -1,7 +1,5 @@
 # wildcardcharacter
 
----
-
 **open source tools for curious minds.**
 
 We build small, useful software for Linux and beyond.
