@@ -16,9 +16,13 @@ or are simply fun to build.
 
 ### 🧰 Tools I use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,haskell,python,bash,git,github,vscode,gtk,qt,ffmpeg" alt="Linux, Haskell, Python, Bash, Git, GitHub, VS Code, GTK, Qt, FFmpeg" />
-</p>
+<div align="center">
+
+| Languages | Platform & UI | Tools |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=haskell,python,bash" alt="Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,gtk,qt" alt="Linux, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,ffmpeg" alt="Git, GitHub, VS Code, FFmpeg" /> |
+
+</div>
 
 ### 🔬 Planned project · FileDNA
 
