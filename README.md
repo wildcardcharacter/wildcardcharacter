@@ -20,7 +20,7 @@ or are simply fun to build.
 
 | Languages | Platform & UI | Tools |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=rust,haskell,python,bash" alt="Rust, Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,gtk,qt" alt="Linux, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,ffmpeg" alt="Git, GitHub, VS Code, FFmpeg" /> |
+| <img src="https://skillicons.dev/icons?i=rust,haskell,python,bash" alt="Rust, Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,windows,bsd,gtk,qt" alt="Linux, Windows, BSD, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,ffmpeg" alt="Git, GitHub, VS Code, VSCodium, FFmpeg" /> |
 
 </div>
 
