@@ -20,15 +20,15 @@ or are simply fun to build.
 
 | Languages | Platform & UI | Tools |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=haskell,python,bash" alt="Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,gtk,qt" alt="Linux, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,ffmpeg" alt="Git, GitHub, VS Code, FFmpeg" /> |
+| <img src="https://skillicons.dev/icons?i=rust,haskell,python,bash" alt="Rust, Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,gtk,qt" alt="Linux, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,ffmpeg" alt="Git, GitHub, VS Code, FFmpeg" /> |
 
 </div>
 
-### 🔬 Planned project · FileDNA
+### 🔬 Featured project · [FileDNA](https://github.com/wildcardcharacter/FileDNA)
 
-A Rust-based tool for analyzing, identifying, and comparing files through their digital fingerprints.
+A Linux desktop app for inspecting files, comparing two files, and finding duplicates by their SHA-256 fingerprints. Export results as JSON or CSV.
 
-`Rust` · `CLI` · `File Analysis` · `Hashing` · `Linux`
+`Rust` · `egui` · `SHA-256` · `Linux` · `Alpha`
 
 ### 👀 On the radar
 
