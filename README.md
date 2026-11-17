@@ -14,30 +14,33 @@ or are simply fun to build.
 
 ---
 
-### 🧰 Tools I use
+### 🧰 Languages, Platforms & Tools
 
 <div align="center">
 
-| Languages | Platform & UI | Tools |
+| Languages & Scripting | Platforms & UI | Tools |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=rust,haskell,python,bash" alt="Rust, Haskell, Python, Bash" /> | <img src="https://skillicons.dev/icons?i=linux,windows,bsd,gtk,qt" alt="Linux, Windows, BSD, GTK, Qt" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,ffmpeg" alt="Git, GitHub, VS Code, VSCodium, FFmpeg" /> |
 
 </div>
 
-### 🔬 Featured project · [FileDNA](https://github.com/wildcardcharacter/FileDNA)
+### 🔬 Projects
 
+**[FileDNA](https://github.com/wildcardcharacter/FileDNA)**  
 A Linux desktop app for inspecting files, comparing two files, and finding duplicates by their SHA-256 fingerprints. Export results as JSON or CSV.
 
 `Rust` · `egui` · `SHA-256` · `Linux` · `Alpha`
 
+**Jellyfin Theme Songs Studio**  
+A studio for creating theme songs for Jellyfin. *In development.*
+
 ### 👀 On the radar
 
-- **RuleForge** — A tiny DSL for rules.
-- **Jellyfin Theme Songs Studio** — In development.
+**RuleForge** — A tiny DSL for rules.
 
 ---
 
-### Contributors
+### 👤 About me
 
 <a href="https://github.com/wildcardcharacter">
   <img src="https://github.com/wildcardcharacter.png" width="80" alt="Markus" />
@@ -49,9 +52,7 @@ Founder & Core Developer
 
 ### 🙏 Thanks
 
-Special thanks to the open-source community and the projects and tools that helped make this project possible.
-
-And thanks to everyone who tests the project, reports bugs, suggests improvements, or provides feedback.
+Thanks to the open-source community and everyone who tests, reports bugs, shares ideas, and helps improve these projects.
 
 <div align="center">
 
