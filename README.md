@@ -32,7 +32,8 @@ A Linux desktop app for inspecting files, comparing two files, and finding dupli
 
 ### 👀 On the radar
 
-**RuleForge** — A tiny DSL for rules.
+- **RuleForge** — A tiny DSL for rules.
+- **Jellyfin**
 
 ---
 
