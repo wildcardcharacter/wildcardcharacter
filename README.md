@@ -33,7 +33,7 @@ A Linux desktop app for inspecting files, comparing two files, and finding dupli
 ### 👀 On the radar
 
 - **RuleForge** — A tiny DSL for rules.
-- **Jellyfin**
+- **[Jellyfin Theme Studio](https://github.com/Stradios/Jellyfin-Theme-Studio)** — Design a Jellyfin theme in your browser, preview it live, and export ready-to-paste CSS.
 
 ---
 
