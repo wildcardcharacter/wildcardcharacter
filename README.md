@@ -26,6 +26,11 @@ or are simply fun to build.
 
 ### 🔬 Projects
 
+**[CellWatch 5G Research Lab](https://github.com/wildcardcharacter/CellWatch-5G-Research-Lab)**  
+An independent research project exploring 5G networks, SDR, cellular architecture, and defensive security in a controlled lab environment. Developing the CellWatch monitoring and analysis platform.
+
+`5G SA` · `SDR` · `srsRAN` · `Open5GS` · `Research in progress`
+
 **[FileDNA](https://github.com/wildcardcharacter/FileDNA)**  
 A Linux desktop app for inspecting files, comparing two files, and finding duplicates by their SHA-256 fingerprints. Export results as JSON or CSV.
 
